@@ -10,9 +10,6 @@ description = "Limao Chang"
 
 dateFormat = "2 January 2006"
 
-[params]
-  # mainSections = ["section1", "section2"]
-
 [author]
   name = "Limao Chang"
   image = "img/profile-picture.jpg"
@@ -20,5 +17,4 @@ dateFormat = "2 January 2006"
   links = [
     { github = "https://github.com/LimaoC/" },
     { linkedin = "https://linkedin.com/in/limao-chang/" },
-    { link = "https://neuralnetwork.limaochang.dev/" },
   ]
