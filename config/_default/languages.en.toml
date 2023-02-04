@@ -1,0 +1,24 @@
+languageCode = "en"
+languageName = "English"
+displayName = "EN"
+isoCode = "en"
+weight = 1
+rtl = false
+
+title = "Limao Chang"
+description = "Limao Chang"
+
+dateFormat = "2 January 2006"
+
+[params]
+  # mainSections = ["section1", "section2"]
+
+[author]
+  name = "Limao Chang"
+  image = "img/profile-picture.jpg"
+  headline = "Third Year Mathematics (Statistics) & Computer Science @ UQ"
+  links = [
+    { github = "https://github.com/LimaoC/" },
+    { linkedin = "https://linkedin.com/in/limao-chang/" },
+    { link = "https://neuralnetwork.limaochang.dev/" },
+  ]
