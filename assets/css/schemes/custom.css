@@ -1,7 +1,7 @@
-/* My custom scheme. Colour values from https://tailwindcss.com/docs/customizing-colors#color-palette-reference */
+/* My custom scheme. Colour values from https://tailwindcss.com/docs/customizing-colors#default-color-palette */
 :root {
   --color-neutral: 255, 255, 255;
-  /* Gray */
+  /* Zinc */
   --color-neutral-50: 250, 250, 250;
   --color-neutral-100: 244, 244, 245;
   --color-neutral-200: 228, 228, 231;
