@@ -1,4 +1,5 @@
 ## Experience
+* Data Analytics Intern, [**Auto & General**](https://autogeneral.com.au/), Jun 2023 —
 * Innovation Student, [**Fugro**](https://www.fugro.com/), Nov 2022 — Feb 2023
 * Pricing Intern, [**Auto & General**](https://www.autogeneral.com.au/), Nov 2021 — Nov 2022
 * Academic Tutor, [**Brisbane Grammar School**](https://www.brisbanegrammar.com/), Feb 2021 — Feb 2022
