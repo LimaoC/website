@@ -16,5 +16,5 @@
 * Queensland Certificate of Education, [**Brisbane Grammar School**](https://www.brisbanegrammar.com/), 2015 — 2020
 
 ## Extracurricular
-* Secretary, [**UQ Computing Society**](https://uqcs.org/), 2022 —
+* Secretary, [**UQ Computing Society**](https://uqcs.org/), 2022 — 2023
 * Industry Liaison Officer, [**Mathematics Student Society**](https://uqmss.org/), 2023 —
