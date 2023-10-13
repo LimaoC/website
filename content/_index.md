@@ -17,4 +17,4 @@
 
 ## Extracurricular
 * Secretary, [**UQ Computing Society**](https://uqcs.org/), 2022 — 2023
-* Industry Liaison Officer, [**Mathematics Student Society**](https://uqmss.org/), 2023 —
+* Industry Liaison Officer, [**Mathematics Student Society**](https://uqmss.org/), 2023
