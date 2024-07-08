@@ -1,20 +1,23 @@
 languageCode = "en"
 languageName = "English"
-displayName = "EN"
-isoCode = "en"
+languageDirection = "ltr"
 weight = 1
-rtl = false
 
 title = "Limao Chang"
-description = "Limao Chang"
+# copyright = "Copy, _right?_ :thinking_face:"
 
-dateFormat = "2 January 2006"
+[params]
+  dateFormat = "2 January 2006"
 
-[author]
+  # mainSections = ["section1", "section2"]
+  # description = "My awesome website"
+
+[params.author]
   name = "Limao Chang"
-  image = "img/profile-picture.jpg"
+  image = "img/me.jpg"
   headline = "Fourth Year Mathematics (Statistics) & Computer Science @ UQ"
+  bio = "A little bit about you"
   links = [
-    { github = "https://github.com/LimaoC/" },
-    { linkedin = "https://linkedin.com/in/limao-chang/" },
+    { github = "https://github.com/LimaoC" },
+    { linkedin = "https://linkedin.com/in/limao-chang" },
   ]
