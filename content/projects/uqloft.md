@@ -4,6 +4,7 @@ summary: "Crowd-sourced solutions for past UQ exam papers built with React (Hack
 externalUrl: "https://github.com/LimaoC/UQLoftHackathon"
 showDate: false
 weight: 100
+tags: ["react"]
 _build:
   render: "false"
   list: "local"

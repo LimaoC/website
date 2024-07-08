@@ -16,9 +16,14 @@
   weight = 10
 
 [[main]]
+  name = "Tags"
+  pageRef = "tags"
+  weight = 20
+
+[[main]]
   name = "GitHub"
   url = "https://github.com/LimaoC/website"
-  weight = 20
+  weight = 30
   [main.params]
     icon = "github"
     showName = false
@@ -28,11 +33,6 @@
 #   name = "Categories"
 #   pageRef = "categories"
 #   weight = 20
-# 
-# [[main]]
-#   name = "Tags"
-#   pageRef = "tags"
-#   weight = 30
 
 [[main]]
   identifier = "search"
