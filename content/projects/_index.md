@@ -1,10 +1,3 @@
----
-showDate: false
-showAuthor: false
-showReadingTime: false
----
-
 ## Projects
 
-If you're interested in learning more or would like to contribute, these projects (and more) are all open source and
-available on my [GitHub](https://www.github.com/LimaoC/) page.
+These projects (and more) can be found on my [GitHub](https://github.com/LimaoC) page. They are ordered here by most recent first.
