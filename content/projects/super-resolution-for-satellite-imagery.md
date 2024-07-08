@@ -34,7 +34,7 @@ Below is an example of the imagery from the Sentinel-2 satellite (a), the VENμS
 
 ## Links
 
-* Report link: [pdf](/projects/super-resolution-for-satellite-imagery.pdf)
+* Report link: [pdf](/projects/super-resolution-for-satellite-imagery/report.pdf)
 * GitHub repo: [super-resolution-for-satellite-imagery](https://github.com/LimaoC/super-resolution-for-satellite-imagery)
 * Original dataset paper: https://www.mdpi.com/2306-5729/7/7/96
 * Original dataset: https://zenodo.org/records/6514159#.YoRxM5PMK3I
