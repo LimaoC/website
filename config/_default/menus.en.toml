@@ -15,6 +15,15 @@
   pageRef = "projects"
   weight = 10
 
+[[main]]
+  name = "GitHub"
+  url = "https://github.com/LimaoC/website"
+  weight = 20
+  [main.params]
+    icon = "github"
+    showName = false
+    target = "_blank"
+
 # [[main]]
 #   name = "Categories"
 #   pageRef = "categories"
