@@ -6,7 +6,7 @@ weight: 50
 tags: ["python"]
 ---
 
-This was my [STAT3007](https://my.uq.edu.au/programs-courses/course.html?course_code=STAT3007) tutorial paper in 2024, Semester 1.
+This is my [STAT3007](https://my.uq.edu.au/programs-courses/course.html?course_code=STAT3007) tutorial paper that I wrote in Semester 1, 2024.
 
 ---
 

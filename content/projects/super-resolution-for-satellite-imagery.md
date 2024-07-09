@@ -1,13 +1,12 @@
-
 ---
 title: "Super Resolution for Satellite Imagery"
-summary: "Super resolution models for Sentinel-2 and VENμS satellite imagery"
+summary: "Super resolution of Sentinel-2 and VENμS satellite imagery"
 showDate: false
-weight: 50
+weight: 40
 tags: ["python"]
 ---
 
-This was my [STAT3007](https://my.uq.edu.au/programs-courses/course.html?course_code=STAT3007) semester project that I worked on with Nazeef Hamid, Mitchell Clark, Emmanuel Skoufris, and Alex Kenna in 2024, Semester 1.
+This is my [STAT3007](https://my.uq.edu.au/programs-courses/course.html?course_code=STAT3007) semester project that I worked on in Semester 1, 2024 with Nazeef Hamid, Mitchell Clark, Emmanuel Skoufris, and Alex Kenna.
 
 To read the full report, see [Links](#links).
 

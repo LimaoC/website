@@ -6,7 +6,7 @@ weight: 60
 tags: ["python"]
 ---
 
-This was my [COMP4702](https://my.uq.edu.au/programs-courses/course.html?course_code=COMP4702) project report in 2024, Semester 1. To read the full report, see [Links](#links).
+This is my [COMP4702](https://my.uq.edu.au/programs-courses/course.html?course_code=COMP4702) project report that I wrote in Semester 1, 2024. To read the full report, see [Links](#links).
 
 ---
 
