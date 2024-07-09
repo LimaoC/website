@@ -11,28 +11,28 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
+  name = "Resume"
+  pageRef = "resume"
+  weight = 10
+
+[[main]]
   name = "Projects"
   pageRef = "projects"
-  weight = 10
+  weight = 20
 
 [[main]]
   name = "Tags"
   pageRef = "tags"
-  weight = 20
+  weight = 30
 
 [[main]]
   name = "GitHub"
   url = "https://github.com/LimaoC/website"
-  weight = 30
+  weight = 40
   [main.params]
     icon = "github"
     showName = false
     target = "_blank"
-
-# [[main]]
-#   name = "Categories"
-#   pageRef = "categories"
-#   weight = 20
 
 [[main]]
   identifier = "search"
