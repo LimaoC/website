@@ -16,14 +16,14 @@ showTableOfContents: false
     * 2023 Semester 1: [CSSE1001](https://my.uq.edu.au/programs-courses/course.html?course_code=csse1001), [CSSE2310](https://my.uq.edu.au/programs-courses/course.html?course_code=csse2310), [STAT1201](https://my.uq.edu.au/programs-courses/course.html?course_code=stat1201)
     * 2022 Semester 2: [CSSE1001](https://my.uq.edu.au/programs-courses/course.html?course_code=csse1001)
     * 2022 Semester 1: [CSSE1001](https://my.uq.edu.au/programs-courses/course.html?course_code=csse1001)
+* Software Engineer Intern, [**Atlassian**](https://www.atlassian.com/), Nov 2024 — Present
 * Data Analytics Intern, [**Auto & General**](https://autogeneral.com.au/), Jun 2023 — Jul 2024
-* Innovation Student, [**Fugro**](https://www.fugro.com/), Nov 2022 — Feb 2023
+* Innovation Intern, [**Fugro**](https://www.fugro.com/), Nov 2022 — Feb 2023
 * Pricing Intern, [**Auto & General**](https://www.autogeneral.com.au/), Nov 2021 — Nov 2022
-* Academic Tutor, [**Brisbane Grammar School**](https://www.brisbanegrammar.com/), Feb 2021 — Feb 2022
 
 ## Education
-* Bachelor of Mathematics (Statistics), [**University of Queensland**](https://www.uq.edu.au/), 2021 — Present
-* Bachelor of Computer Science, [**University of Queensland**](https://www.uq.edu.au/), 2021 — Present
+* Bachelor of Mathematics in Statistics, [**University of Queensland**](https://www.uq.edu.au/), 2021 — 2024
+* Bachelor of Computer Science, [**University of Queensland**](https://www.uq.edu.au/), 2021 — 2024
 * Queensland Certificate of Education, [**Brisbane Grammar School**](https://www.brisbanegrammar.com/), 2015 — 2020
 
 ## Extracurricular
