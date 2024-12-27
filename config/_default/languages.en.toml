@@ -4,13 +4,13 @@ languageDirection = "ltr"
 weight = 1
 
 title = "Limao Chang"
-copyright = "Copy, _right?_ :thinking_face:"
+copyright = "© 2024 Limao Chang"
 
 [params]
   dateFormat = "2 January 2006"
 
-  # mainSections = ["section1", "section2"]
-  # description = "My awesome website"
+  mainSections = ["resume", "projects"]
+  description = "Limao Chang's personal website"
 
 [params.author]
   name = "Limao Chang"
