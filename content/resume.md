@@ -22,6 +22,7 @@ showTableOfContents: false
 * Pricing Intern, [**Auto & General**](https://www.autogeneral.com.au/), Nov 2021 — Nov 2022
 
 ## Education
+* Bachelor of Mathematics (Honours), [**University of Queensland**](https://www.uq.edu.au/), 2025 — Present
 * Bachelor of Mathematics in Statistics, [**University of Queensland**](https://www.uq.edu.au/), 2021 — 2024
 * Bachelor of Computer Science, [**University of Queensland**](https://www.uq.edu.au/), 2021 — 2024
 * Queensland Certificate of Education, [**Brisbane Grammar School**](https://www.brisbanegrammar.com/), 2015 — 2020

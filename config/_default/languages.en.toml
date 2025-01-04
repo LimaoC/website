@@ -15,8 +15,8 @@ copyright = "© 2024 Limao Chang"
 [params.author]
   name = "Limao Chang"
   image = "img/me.jpg"
-  headline = "Fourth Year Mathematics (Statistics) & Computer Science @ UQ"
-  bio = "Fourth Year Mathematics (Statistics) & Computer Science @ UQ"
+  headline = "Maths Honours @ UQ, Maths/Stats & CS grad @ UQ"
+  bio = "Maths Honours @ UQ, Maths/Stats & CS grad @ UQ"
   links = [
     { github = "https://github.com/LimaoC" },
     { linkedin = "https://linkedin.com/in/limao-chang" },
