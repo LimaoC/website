@@ -10,13 +10,14 @@ showTableOfContents: false
 
 ## Experience
 * Teaching Assistant, [**University of Queensland**](https://www.uq.edu.au/), Feb 2022 — Present
+    * 2025 Semester 1: [CSSE2310](https://my.uq.edu.au/programs-courses/course.html?course_code=csse2310), [CSSE3100](https://my.uq.edu.au/programs-courses/course.html?course_code=csse3100), [STAT2003](https://my.uq.edu.au/programs-courses/course.html?course_code=stat2003)
     * 2024 Semester 2: [CSSE2310](https://my.uq.edu.au/programs-courses/course.html?course_code=csse2310), [MATH2504](https://my.uq.edu.au/programs-courses/course.html?course_code=math2504), [STAT3006](https://my.uq.edu.au/programs-courses/course.html?course_code=stat3006)
     * 2024 Semester 1: [CSSE2310](https://my.uq.edu.au/programs-courses/course.html?course_code=csse2310), [CSSE3100](https://my.uq.edu.au/programs-courses/course.html?course_code=csse3100), [STAT2003](https://my.uq.edu.au/programs-courses/course.html?course_code=stat2003)
     * 2023 Semester 2: [CSSE1001](https://my.uq.edu.au/programs-courses/course.html?course_code=csse1001), [CSSE2310](https://my.uq.edu.au/programs-courses/course.html?course_code=csse2310), [MATH2504](https://my.uq.edu.au/programs-courses/course.html?course_code=math2504)
     * 2023 Semester 1: [CSSE1001](https://my.uq.edu.au/programs-courses/course.html?course_code=csse1001), [CSSE2310](https://my.uq.edu.au/programs-courses/course.html?course_code=csse2310), [STAT1201](https://my.uq.edu.au/programs-courses/course.html?course_code=stat1201)
     * 2022 Semester 2: [CSSE1001](https://my.uq.edu.au/programs-courses/course.html?course_code=csse1001)
     * 2022 Semester 1: [CSSE1001](https://my.uq.edu.au/programs-courses/course.html?course_code=csse1001)
-* Software Engineer Intern, [**Atlassian**](https://www.atlassian.com/), Nov 2024 — Present
+* Software Engineer Intern, [**Atlassian**](https://www.atlassian.com/), Nov 2024 — Feb 2025
 * Data Analytics Intern, [**Auto & General**](https://autogeneral.com.au/), Jun 2023 — Jul 2024
 * Innovation Intern, [**Fugro**](https://www.fugro.com/), Nov 2022 — Feb 2023
 * Pricing Intern, [**Auto & General**](https://www.autogeneral.com.au/), Nov 2021 — Nov 2022
