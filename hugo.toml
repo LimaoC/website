@@ -3,3 +3,59 @@ languageCode = "en-au"
 title = "Limao Chang"
 theme = "typo"
 
+[taxonomies]
+tag = 'tags'
+
+[params]
+description = "Limao's personal website"
+
+theme = "auto"
+colorPalette = "default"
+hideHeader = false
+
+homeIntroTitle = ""
+homeIntroContent = """
+<div style="text-align: center;">
+  <img src="/img/me.jpg" alt="Profile picture" style="width: 30%; border-radius: 50%; display: inline-block;">
+</div>
+
+Hi, I'm Limao. I graduated from a Maths and CS degree at UQ in 2024. I'm currently doing my honours in Maths at the [University of Queensland](https://www.uq.edu.au/), where my project is on studying novel numerical optimisation methods for large-scale machine learning applications.
+"""
+
+footerContent = "© 2025 Limao Chang"
+
+listSummaries = true
+
+paginationSize = 100
+
+[params.breadcrumbs]
+enabled = true
+showCurrentPage = true
+home = "~"
+
+[[params.social]]
+name = "github"
+url = "https://github.com/LimaoC"
+
+[[params.social]]
+name = "linkedin"
+url = "https://linkedin.com/in/limao-chang"
+
+[[params.menu]]
+name = "home"
+url = "/"
+
+[[params.menu]]
+name = "projects"
+url = "/projects"
+
+[[params.menu]]
+name = "resume"
+url = "/resume"
+
+[[params.menu]]
+name = "tags"
+url = "/tags"
+
+[markup.goldmark.renderer]
+unsafe = true  # allow raw HTML in Markdown files
