@@ -1,0 +1,5 @@
+baseURL = "https://limaoc.dev"
+languageCode = "en-au"
+title = "Limao Chang"
+theme = "typo"
+
