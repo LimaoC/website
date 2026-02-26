@@ -19,7 +19,7 @@ homeIntroContent = """
   <img src="/img/me.jpg" alt="Profile picture" style="width: 30%; border-radius: 50%; display: inline-block;">
 </div>
 
-Hi, I'm Limao. I graduated from a Maths and CS degree at UQ in 2024. I'm currently doing my honours in Maths at the [University of Queensland](https://www.uq.edu.au/), where my project is on studying novel numerical optimisation methods for large-scale machine learning applications.
+Hi, I'm Limao. I'm currently a backend software engineer at [Atlassian](https://www.atlassian.com/). I studied at the [University of Queensland](https://www.uq.edu.au/) where I graduated from a Maths and CS degree in 2024, and a Maths (Honours) degree in 2025. My research interests were in novel numerical optimisation methods for large-scale machine learning applications.
 """
 
 footerContent = "© 2025 Limao Chang"
