@@ -4,7 +4,8 @@ description: "Resume"
 ---
 
 ## Experience
-* Teaching Assistant, **University of Queensland**, Feb 2022 — Present
+* Software Engineer, **Atlassian**, Feb 2026 — Present
+* Teaching Assistant, **University of Queensland**, Feb 2022 — Nov 2025
     * 2025 Semester 2: [CSSE2310](https://programs-courses.uq.edu.au/course.html?course_code=csse2310), [COMP4500](https://programs-courses.uq.edu.au/course.html?course_code=comp4500), [STAT3006](https://programs-courses.uq.edu.au/course.html?course_code=stat3006)
     * 2025 Semester 1: [CSSE2310](https://programs-courses.uq.edu.au/course.html?course_code=csse2310), [CSSE3100](https://programs-courses.uq.edu.au/course.html?course_code=csse3100), [STAT2003](https://programs-courses.uq.edu.au/course.html?course_code=stat2003)
     * 2024 Semester 2: [CSSE2310](https://programs-courses.uq.edu.au/course.html?course_code=csse2310), [MATH2504](https://programs-courses.uq.edu.au/course.html?course_code=math2504), [STAT3006](https://programs-courses.uq.edu.au/course.html?course_code=stat3006)
@@ -19,11 +20,11 @@ description: "Resume"
 * Pricing Intern, **Auto & General**, Nov 2021 — Nov 2022
 
 ## Education
-* Bachelor of Mathematics (Honours), **University of Queensland**, 2025 — Present
+* Bachelor of Mathematics (Honours), **University of Queensland**, 2025
 * Bachelor of Mathematics in Statistics, **University of Queensland**, 2021 — 2024
 * Bachelor of Computer Science, **University of Queensland**, 2021 — 2024
 * Queensland Certificate of Education, **Brisbane Grammar School**, 2015 — 2020
 
-## Extracurricular
+## Student Societies
 * Secretary, [**UQ Computing Society**](https://uqcs.org/), 2022 & 2023
 * Industry Liaison Officer, [**UQ Mathematics Student Society**](https://uqmss.org/), 2023
